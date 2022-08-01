@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "tailwind-inline-bricks",
+  "name": "tailwindcss-inline-bricks",
   "author": "Pavel Shut",
   "module": "dist/tailwind-inline-bricks.esm.js",
   "size-limit": [
